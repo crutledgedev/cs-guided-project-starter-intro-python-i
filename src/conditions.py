@@ -16,6 +16,7 @@ Conditions
 
 # if name == "Matt" or name == "Sean":
 #     print("Your name is either Matt or Sean.")
+#     print("this is a test")
 
 # # 3. "in"
 # name = "Matt"
@@ -50,21 +51,21 @@ Conditions
 YOU DO
 3 minute timer
 """
-# # Modify the supplied code so that all of the statements evaluate to True
-# # change this code
-# number = 5
-# second_number = 5
-# first_array = []
-# second_array = [3, 4, 5]
+# # # Modify the supplied code so that all of the statements evaluate to True
+# # # change this code
+number = 16
+second_number = 0
+first_array = [1, 2, 3]
+second_array = [4, 5]
 
-# print(bool(number > 15))
+print(bool(number > 15))
 
-# print(bool(first_array))
+print(bool(first_array))
 
-# print(len(second_array) == 2)
+print(len(second_array) == 2)
 
-# print(len(first_array) + len(second_array) == 5)
+print(len(first_array) + len(second_array) == 5)
 
-# print(first_array and first_array[0] == 1)
+print(first_array and first_array[0] == 1)
 
-# print(not second_number)
+print(not second_number)

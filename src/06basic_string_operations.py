@@ -57,15 +57,23 @@ YOU DO
 """
 # assign the string "Strings are awesome!" to a variable
 
+awesome = "Strings are Awesome"
+print(awesome)
+
 # print the length of the string
+print(len(awesome))
 
 # print the first occurrence of "a"
+print(awesome.index("a"))
 
 # print the count of the number of "a"s in the string
+print(awesome.count("a"))
 
 # print the first five characters
+print(awesome[:5:])
 
 # print the last five characters in reverse
+print(awesome[:-6:-1])
 
 # print the 17th character
 
@@ -79,4 +87,3 @@ YOU DO
 
 
 # split the string on the spaces
-

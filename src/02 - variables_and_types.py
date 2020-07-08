@@ -2,20 +2,20 @@
 Variable and Types
 """
 # # 1. Integers
-# myint = 9
-# print(myint)
+myint = 9
+print(myint)
 
 # # 2. Floating point numbers
-# myfloat = 7.245
-# print(myfloat)
-# myfloat = float(7)
-# print(myfloat)
+myfloat = 7.245
+print(myfloat)
+myfloat = float(7)
+print(myfloat)
 
 # # 3. Strings can use " or '
-# mystring = 'hello'
-# print(mystring)
-# mystring = "hello"
-# print(mystring)
+mystring = 'hello'
+print(mystring)
+mystring = "hello"
+print(mystring)
 
 # # 4. Apostophes
 # mystring = "Don't worry about apostrophes"
